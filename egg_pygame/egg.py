@@ -48,8 +48,11 @@ henw = hen.get_width()
 
 # initial coordinates
 basketx = int(screen_width/2)
-baskety = screen_height - 115
-henx = 20
+baskety = screen_height - 120
+henx = 22
+baskety = screen_height - 120
+henx = 25
+
 heny = 0
 eggx = henw/2
 eggy = henh
